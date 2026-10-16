@@ -16,15 +16,11 @@
 
 ## About
 
-I'm **Pabitra Swain**, a web developer focused on building responsive web experiences, thoughtful interfaces, and practical digital products. My background includes front-end development, UI/UX design, API integration, and WordPress solutions.
+I'm **Pabitra Swain**, 
 
-I enjoy connecting clean implementation with clear user experiencesâ€”whether that means refining a responsive interface, integrating a REST API, or bringing a product idea to life.
+<img src="pabitra-hero.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
 
-- **Focus:** Front-end and web application development
-- **Experience listed on my resume:** Web application development, UI/UX, and freelance web projects
-- **Approach:** Accessible, responsive, maintainable, user-focused interfaces
-
-## Experience
+<br />## Experience
 
 **Web Application Developer â€” Atreya Associates** Â· 2022â€“Present  
 Resume-listed work includes web application development, API integration, responsive interfaces, and performance optimization.
