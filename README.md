@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pabitra-hero.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
+<img src="pabitra-hero.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
 
 <br />
 
