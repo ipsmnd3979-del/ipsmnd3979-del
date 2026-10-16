@@ -39,7 +39,7 @@ Presidency College, Berhampur Â· 2016â€“2019
 
 ## Skills
 
-<img src="pabitra-skills.png" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100" />
+<img src="pabitra-skills.png" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
 ## Selected Work
 
 This section is deliberately conservative: the supplied materials available for this README did not establish public repository URLs or live demo URLs for individual projects. Add a project only when its repository or demo is confirmed.
