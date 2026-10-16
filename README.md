@@ -14,11 +14,10 @@
 
 ---
 
-## About
 
-I'm **Pabitra Swain**, 
+My **About **, 
 
-<img src="pabitra-hero.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
+<img src="pabitra-about.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
 
 <br />## Experience
 
