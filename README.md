@@ -39,16 +39,7 @@ Presidency College, Berhampur Â· 2016â€“2019
 
 ## Skills
 
-The skills below are taken from the available resume.
-
-| Category | Technologies and capabilities |
-| --- | --- |
-| Front-end | HTML5, CSS3, JavaScript |
-| UI and responsive design | Responsive Web Design, UI/UX Design, Bootstrap |
-| JavaScript and integration | jQuery, AJAX, REST API Integration |
-| CMS | WordPress |
-| Professional strengths | Problem Solving, Team Collaboration |
-
+<img src="pabitra-skills.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100" />
 ## Selected Work
 
 This section is deliberately conservative: the supplied materials available for this README did not establish public repository URLs or live demo URLs for individual projects. Add a project only when its repository or demo is confirmed.
