@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="footer-title footer-desc">
+  <title id="footer-title">Build thoughtfully</title>
+  <desc id="footer-desc">Minimal burgundy footer with a softly animated rose line.</desc>
+  <defs>
+    <linearGradient id="footer-wine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.15"/>
+      <stop offset="48%" stop-color="#C77B9B"/>
+      <stop offset="100%" stop-color="#701A3D" stop-opacity="0.15"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="14" fill="#10070C"/>
+  <path d="M60 40H1140" stroke="#451126" stroke-width="1"/>
+  <path d="M60 40H1140" stroke="url(#footer-wine)" stroke-width="2" stroke-dasharray="140 1060">
+    <animate attributeName="stroke-dashoffset" values="0;-1200" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="77" text-anchor="middle" fill="#E5B5C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="4">CODE  /  CREATE  /  KEEP LEARNING</text>
+  <text x="600" y="100" text-anchor="middle" fill="#C77B9B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">PABITRA SWAIN</text>
+</svg>
