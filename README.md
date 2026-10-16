@@ -91,6 +91,6 @@ Once your username is confirmed, a genuine contribution graph can be added using
 ---
 
 <div align="center">
-  <img src="assets/pabitra-footer.svg" alt="Code, create, keep learning â€” Pabitra Swain" width="100%" />
+  <img src="pabitra-footer.svg" alt="Code, create, keep learning â€” Pabitra Swain" width="100%" />
   <sub>Designed with care Â· Built to keep evolving</sub>
 </div>
